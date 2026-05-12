@@ -1,0 +1,31 @@
+window.WEB_APP_MANIFEST = {
+  "BarangayHealthCenter": [
+    "Screenshot 2026-05-12 203829.png",
+    "Screenshot 2026-05-12 203834.png",
+    "Screenshot 2026-05-12 203843.png",
+    "Screenshot 2026-05-12 203850.png",
+    "Screenshot 2026-05-12 203859.png",
+    "Screenshot 2026-05-12 203904.png",
+    "Screenshot 2026-05-12 211605.png",
+    "Screenshot 2026-05-12 212637.png",
+    "Screenshot 2026-05-12 212649.png",
+    "Screenshot 2026-05-12 212655.png",
+    "Screenshot 2026-05-12 212706.png",
+    "Screenshot 2026-05-12 212731.png",
+    "Screenshot 2026-05-12 212738.png",
+    "Screenshot 2026-05-12 212743.png",
+    "Screenshot 2026-05-12 212750.png",
+    "Screenshot 2026-05-12 212806.png",
+    "Screenshot 2026-05-12 212813.png",
+    "Screenshot 2026-05-12 212819.png",
+    "Screenshot 2026-05-12 212836.png",
+    "Screenshot 2026-05-12 212846.png",
+    "Screenshot 2026-05-12 212856.png",
+    "Screenshot 2026-05-12 212902.png",
+    "Screenshot 2026-05-12 212909.png",
+    "Screenshot 2026-05-12 212915.png",
+    "Screenshot 2026-05-12 212922.png",
+    "Screenshot 2026-05-12 212931.png",
+    "Screenshot 2026-05-12 212938.png"
+  ]
+};

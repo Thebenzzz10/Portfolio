@@ -1,0 +1,27 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.44"/>
+      <stop offset="0.5" stop-color="#05060a" stop-opacity="1"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0.28"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="85%" r="70%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#05060a"/>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#glow)"/>
+
+  <g fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.14">
+    <rect x="190" y="160" width="1220" height="680" rx="38"/>
+    <rect x="260" y="230" width="1080" height="120" rx="22"/>
+    <rect x="260" y="390" width="520" height="380" rx="26"/>
+    <rect x="820" y="390" width="520" height="380" rx="26"/>
+  </g>
+
+  <text x="190" y="120" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="40" fill="#ffffff" fill-opacity="0.78">
+    Project Image Placeholder
+  </text>
+</svg>

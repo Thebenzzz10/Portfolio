@@ -1,0 +1,16 @@
+# Dependencies (if you run npm/vite later)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Env / secrets
+.env
+.env.*
+
+# Build output (if you add a bundler)
+dist/
+.cache/

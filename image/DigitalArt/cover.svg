@@ -1,0 +1,26 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="daBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b21b6" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#0891b2" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#05060a" stop-opacity="1"/>
+    </linearGradient>
+    <radialGradient id="daGlow" cx="30%" cy="24%" r="65%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="#05060a"/>
+  <rect width="1600" height="1000" fill="url(#daBg)"/>
+  <rect width="1600" height="1000" fill="url(#daGlow)"/>
+
+  <g fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.16">
+    <rect x="110" y="150" width="540" height="170" rx="18"/>
+    <rect x="110" y="350" width="1020" height="440" rx="22"/>
+    <rect x="690" y="150" width="800" height="170" rx="18"/>
+  </g>
+
+  <text x="110" y="118" font-family="ui-sans-serif, system-ui, Segoe UI, Roboto, Arial" font-size="38" fill="#ffffff" fill-opacity="0.82">
+    Digital Art · Portfolio preview
+  </text>
+</svg>
