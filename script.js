@@ -538,9 +538,6 @@ function createPortfolioGallery(options) {
 
 const photographyFolders = [
   "Animal Photography",
-  "Battle of the Bands",
-  "Camera Event",
-  "Christening",
   "Cosplay",
   "Dark Theme",
   "Debut",
@@ -549,8 +546,6 @@ const photographyFolders = [
   "Fun Shot",
   "Nature Vibe",
   "Product Shot",
-  "Shoe",
-  "Travel and Nature",
   "Vintage Vibe",
 ];
 
